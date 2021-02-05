@@ -1,24 +1,3 @@
-/* Demo Styles */
-#content {
-  margin: 0 auto;
-  padding-bottom: 50px;
-  width: 80%;
-  max-width: 978px;
-}
-
-ul {
-  list-style: square;
-}
-ul li a {
-  text-decoration: none;
-  color: #34495e;
-  display: block;
-  margin: 10px;
-}
-ul li a:hover {
-  text-decoration: underline;
-}
-
 /* The Loader */
 #loader-wrapper {
   position: fixed;
@@ -112,7 +91,7 @@ ul li a:hover {
   top: 0;
   width: 51%;
   height: 100%;
-  background: #222;
+  background: #f9fafb;
   z-index: 10;
 }
 
